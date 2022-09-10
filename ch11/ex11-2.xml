@@ -1,0 +1,9 @@
+<!-- 예제 11-2 멱등적으로 만들기 위해 포인트 크레딧에 더 많은 정보 추가 -->
+
+<credit>
+  <amount>100</amount>
+  <forAccount>1234</forAccount>
+  <reason>
+    <forPurchase>4567</forPurchase>
+  </reason>
+</credit>

@@ -1,0 +1,6 @@
+<!-- 예제 11-1 계정에 포인트 쌓기 -->
+
+<credit>
+  <amount>100</amount>
+  <forAccount>1234</forAccount>
+</credit>
