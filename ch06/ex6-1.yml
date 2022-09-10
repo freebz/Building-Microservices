@@ -1,0 +1,17 @@
+# 예제 6-1 환경 전의의 예
+
+development:
+  nodes:
+  - ami_id: ami-e1e1234
+    size:   t1.micro
+    credentials_name: eu-west-ssh
+    services: [catalog-service]
+    region: eu-west-1
+    
+production:
+  nodes:
+  - ami_id: ami-e1e1234
+    size:   m3.xlarge
+    credentials_name: prod-credentials
+    services: [catalog-service]
+    number: 5

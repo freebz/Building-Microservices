@@ -1,0 +1,8 @@
+# 예제 6-2 환경 정의 예
+
+catalog-service:
+  puppet_manifest : catalog.pp
+  connectivity:
+    - protocol: tcp
+      ports: [ 8080, 8081 ]
+      allowed: [ WORLD ]
