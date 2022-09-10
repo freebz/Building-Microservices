@@ -1,0 +1,8 @@
+<!-- 예제 4-3 고객 서비스로부터 받은 응답의 예 -->
+
+<customer>
+  <firstname>Sam</firstname>
+  <lastname>Newman</lastname>
+  <email>sam@magpiebrain.com</email>
+  <telephoneNumber>555-12324-5678</telephoneNumber>
+</customer>

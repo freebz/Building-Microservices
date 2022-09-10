@@ -1,0 +1,10 @@
+<!-- 예제 4-2 앨범 목록에 사용된 사이퍼미디어 컨트롤 -->
+
+<album>
+  <name>Give Blood</name>
+  <link rel="/artist" href="/artist/theBrakes" />
+  <description>
+    Awesome, short, brutish, funny and loud. Must buy!
+  </description>
+  <link rel="/instantpurchase" href="/instantPurchase/1234" />
+</album>
